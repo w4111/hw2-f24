@@ -8,7 +8,8 @@
 
 ## Submission
 
-You will submit all your work on Gradescope. You will upload screenshots and / or type in your solution directly corresponding to each question for Q1-4, and submit a single file of your jupyter notebook for Q5.
+You will submit all your work on Gradescope. You will upload screenshots and / or type in your solution directly corresponding to each question for Q1-4. You're encouraged to show your working process / intermediate steps for partial mark considerations, but please clearly indicate your final answer. 
+You will submit a single file of your jupyter notebook for Q5.
 
 ## 1. Relational Algebra
 
