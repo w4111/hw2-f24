@@ -130,4 +130,5 @@ Write SQL queries for the following English descriptions using the same relation
 **(12 points total)**
 * [Click here to open the HW2 notebook in google colab](https://drive.google.com/file/d/1m4w2Qw1aoqx4ePyBl6NZDD8TWHnu1Qww/view?usp=sharing)
 * Click "ctrl + s" and save a copy to your own Google Drive
+* Or download the Jupyter notebook in the repo
 * Follow the instructions in the notebook to complete and submit
