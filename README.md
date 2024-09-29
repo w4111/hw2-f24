@@ -101,7 +101,7 @@ For each of the following relational algebra expressions, first describe its mea
 First, describe the meaning of following relational algebra expressions in one or two sentences.
 Second, translate the following relational algebra expressions in SQL. Make sure your SQL can be executed.
 
-1. π<sub>g_name</sub>(σ<sub>price &lt; cost</sub>(π<sub>supplyid, s_name</sub>(Goods ⨝ Supply)))
+1. π<sub>g_name</sub>(σ<sub>price &lt; cost</sub>(π<sub>g_name, price, cost</sub>(Goods ⨝ Supply)))
 
 2. π<sub>supplyid</sub>(Supply/π<sub>gid</sub>(σ<sub>supplyid='1096'</sub>(Supply)))
 
