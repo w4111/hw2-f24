@@ -104,7 +104,10 @@ Second, translate the following relational algebra expressions in SQL. Make sure
 1. π<sub>g_name</sub>(σ<sub>price &lt; cost</sub>(π<sub>g_name, price, cost</sub>(Goods ⨝ Supply)))
 
 **Optional question for extra credit. (2 points)**
+
 2. π<sub>supplyid</sub>(Supply/π<sub>gid</sub>(σ<sub>supplyid='1096'</sub>(Supply)))
+
+
   The textbook defines division as following:
    
    <img width="479" alt="division-defition" src="https://github.com/user-attachments/assets/7e97fa52-d818-4d7c-97aa-a6ca2b476ff5">
