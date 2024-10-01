@@ -1,7 +1,7 @@
 # Homework 2
 
 * Assigned: 9/26
-* Due: 10/3 11:59PM (No grace days/late submissions accepted at all beyond 10/7 11:59 PM EST)
+* Due: 10/6 10:00AM (No grace days/late submissions accepted at all beyond 10/7 11:59 PM EST)
 * Worth 3.75% of your grade
 * Done and submitted individually (as with all the homeworks) **via [Gradescope](https://www.gradescope.com)**
 * Edit Log: add clarification for Q2.2 and add descriptions for the schema in Q3
