@@ -129,7 +129,7 @@ Second, translate the following relational algebra expressions in SQL. Make sure
 Write SQL queries for the following English descriptions using the same relationships in Q3:
 1. Find the total price of goods if all supplies are sold.
 2. Create a table *Supcount* by finding the total number of suppliers providing each good. The *Supcount* table shall contain two columns (gid, c)
-3. Use only the *Supcount* table you created and the Goods table to compute the total price of goods if all suppliers are sold.
+3. Use only the *Supcount* table you created and the Goods table to compute the total price of goods if all supplies are sold.
 
 
 ## 5. More SQL
