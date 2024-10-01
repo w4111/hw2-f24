@@ -109,8 +109,7 @@ Second, translate the following relational algebra expressions in SQL. Make sure
 
 
   The textbook defines division as following:
-   
-   <img width="479" alt="division-defition" src="https://github.com/user-attachments/assets/7e97fa52-d818-4d7c-97aa-a6ca2b476ff5">
+   <a href="division.png"><img src="division.png"/></a>
 
 3. (3 points)
    
