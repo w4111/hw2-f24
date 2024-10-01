@@ -4,6 +4,7 @@
 * Due: 10/3 11:59PM (No grace days/late submissions accepted at all beyond 10/7 11:59 PM EST)
 * Worth 3.75% of your grade
 * Done and submitted individually (as with all the homeworks) **via [Gradescope](https://www.gradescope.com)**
+* Edit Log: add clarification for Q2.2 and add descriptions for the schema in Q3
 
 
 ## Submission
@@ -78,7 +79,7 @@ Construct relational algebra for the following queries:
    
 * **Q1**: (2 points) Find the *ssn* of the persons who owns stocks at companies where he/she has not worked for.
 
-* **Q2**: (2 points) Find the *ssn* of the persons who owns more *sharenum* of a stock than all of his/her manager owns.
+* **Q2**: (2 points) Find the *ssn* of the persons who owns more *sharenum* of a stock than all of his/her managers own.
     (Note: Each *companyid* represents a different stock).
 
 * **Q3**: (3 points) Find the *ssn* of the persons who own three different stocks where the *sharenum* of one stock is 
@@ -96,7 +97,7 @@ Here are two relations, (primary keys are in **bold**):
 
 * Supply(**supplyid**, **gid**, cost)
 
-For each of the following relational algebra expressions, first describe its meaning. Second, translate the expression to SQL. Make sure your SQL can be executed in Postgres.
+Clarification: Each price in Goods measures the unit price of a gid, we assume each (supplyid, gid) pair is one unit of gid.
 
 First, describe the meaning of following relational algebra expressions in one or two sentences.
 Second, translate the following relational algebra expressions in SQL. Make sure your SQL can be executed.
