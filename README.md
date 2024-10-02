@@ -4,7 +4,7 @@
 * Due: 10/6 10:00AM (No grace days/late submissions accepted at all beyond 10/7 11:59 PM EST)
 * Worth 3.75% of your grade
 * Done and submitted individually (as with all the homeworks) **via [Gradescope](https://www.gradescope.com)**
-* Edit Log: add clarification for Q2.2 and add descriptions for the schema in Q3
+* Edit Log: add clarification for Q2.2 and add descriptions for the schema in Q3, update Q1.6 to fix notation.
 
 
 ## Submission
@@ -51,7 +51,7 @@ and all the letters are the same type (char). If the result table is empty, writ
 
 5. T1 ⨝<sub>T1.A&gt;T2.B</sub> (σ<sub>B&ne;2</sub>(T2))
 
-6. T1 ⨝<sub>T1.A&gt;R.A</sub> p(R(1->A, 2->D), π<sub>B, C</sub>(T2))
+6. T1 ⨝<sub>T1.A&gt;R.A</sub> p(R($1->A, $2->D), π<sub>B, C</sub>(T2))
 
 ## 2. More Relational Algebra
 
