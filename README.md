@@ -6,6 +6,11 @@
 * Done and submitted individually (as with all the homeworks) **via [Gradescope](https://www.gradescope.com)**
 * Edit Log: add clarification for Q2.2 and add descriptions for the schema in Q3, update Q1.6 to fix notation.
 
+## Edit log
+* Added clarification for Q2.2 and add descriptions for the schema in Q3, update Q1.6 to fix notation.
+* Oct 5: Added clarification for programming part 2 submission. 
+1. Please disregard the Gradescope autograder feedback. We will be using a different autograder and grading manually for partial marks.
+2. You can ignore the "passing first two tests" requirement in the Jupyter notebook. As long as you submit a .py file with your query as instructed, you're all set.
 
 ## Submission
 
