@@ -1,5 +1,8 @@
 # Homework 2 Solution
 
+## Edit log
+* Updated solution for question 1.6
+
 ## 1.1     
 
 π<sub>A,B</sub>(T1)
@@ -66,10 +69,9 @@ T1 ⨝<sub>T1.A&gt;R.A</sub> p(R(1->A, 2->D), π<sub>B, C</sub>(T2))
 
 | (A) | B | C | (A) | D |
 |-----|---|---|-----|---|
-|  1  | x | a |  1  | x |
-|  2  | y | c |  2  | y |
-|  2  | y | b |  2  | y |
-|  2  | z | c |  2  | y |
+|  2  | y | c |  1  | x |
+|  2  | y | b |  1  | x |
+|  2  | z | c |  1  | x |
 
 IMPORTANT: You should use the bracket `(<column_name>)` notation or the `<table_name>.<column_name>` *only* for columns with duplicate names! 
 
