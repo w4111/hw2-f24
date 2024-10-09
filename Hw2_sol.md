@@ -2,6 +2,7 @@
 
 ## Edit log
 * Updated solution for question 1.6
+* Updated solution for 2.1
 
 ## 1.1     
 
@@ -79,7 +80,7 @@ In other words, if you bracket every column, or if you put a `<table_name>.` pre
 
 ## 2.1 
 
-π<sub>ssn</sub>(π<sub>ssn, companyid</sub>(Person) - π<sub>ssn, companyid</sub>(Holding))
+π<sub>ssn</sub>(π<sub>ssn, companyid</sub>(Holding) - π<sub>ssn, companyid</sub>(Person))
 
 ## 2.2 
 
