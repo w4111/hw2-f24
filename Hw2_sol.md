@@ -3,6 +3,7 @@
 ## Edit log
 * Updated solution for question 1.6
 * Updated solution for 2.1
+* Updated solution for 3.2 to fix typo
 
 ## 1.1     
 
@@ -118,13 +119,13 @@ description: Find the supplier ids of the stores which supply all the goods supp
 
 ```sql
 select distinct supplyid
-from Supply
+from Supply S
 where not exists(
     select * from Supply as S1
     where S1.supplyid = "1096"
     and not exists(
         select * from Supply as S2 
-        where S2.storeid = Store.storeid and 
+        where S2.supplyid = S.supplyid and 
         S2.g_id = S1.g_id
     )
 )
